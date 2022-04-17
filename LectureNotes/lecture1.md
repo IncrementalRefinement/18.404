@@ -1,4 +1,4 @@
-# Lecture 1 Introduction, Finite Automata, Regular Expressions
+# Lecture1 Introduction, Finite Automata, Regular Expressions
 
 ## Outline
 
